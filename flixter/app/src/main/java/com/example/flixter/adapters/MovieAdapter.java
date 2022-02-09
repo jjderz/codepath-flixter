@@ -86,7 +86,7 @@ public class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.ViewHolder> 
 
 
 
-            Glide.with(context).load(imageUrl).centerCrop().transform(new RoundedCornersTransformation(50,20)).into(ivPoster);
+            Glide.with(context).load(imageUrl).centerCrop().transform(new RoundedCornersTransformation(30,20)).into(ivPoster);
             container.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View view) {
