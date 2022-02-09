@@ -59,9 +59,9 @@ Describe any challenges encountered while building the app.
 ### App Walkthough GIF
 
 
-![](https://imgur.com/gallery/w3uzpqG)
+https://imgur.com/a/w3uzpqG
 
-https://imgur.com/a/g15gRJk
+https://imgur.com/a/wRHLNgl
 
 
 ### Notes
