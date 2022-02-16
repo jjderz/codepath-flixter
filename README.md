@@ -61,7 +61,7 @@ Describe any challenges encountered while building the app.
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Landscape Walkthrough' width='300' alt='Video Walkthrough' />
 
-https://imgur.com/a/wRHLNgl
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ### Notes
