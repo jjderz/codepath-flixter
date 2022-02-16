@@ -59,7 +59,7 @@ Describe any challenges encountered while building the app.
 ### App Walkthough GIF
 
 
-https://imgur.com/a/w3uzpqG
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Landscape Walkthrough' width='300' alt='Video Walkthrough' />
 
 https://imgur.com/a/wRHLNgl
 
